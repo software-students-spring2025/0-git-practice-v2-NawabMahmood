@@ -19,4 +19,9 @@ Additionally, the discussion on **predictive analytics, customized development e
 As someone who sometimes wonders about the future of software development in the age of AI, I found this article to be a balanced and insightful take on what lies ahead.  
 
 ---
-_Added by: **Nawab Mahmood**_
+_Added by: **Nawab Mahmood**_ 
+
+## Comment on Article - Preston Lee 
+I enjoy how this article provides a balanced perspective on AI's role in the software development space. The power of AI-powered tools like GitHub Copilot and ChatGPT have undoubtedly streamlined develoment workflows, and it leaves a lot of question for how it will shape the career paths of future developers. 
+
+**Predictive analytics** is another topic matter that was interesting in how efficiency can be improved without the removal of human expertise. It provides another perspective on how the integeration of both humans and AI can improve efficiency, and ultimately maximize optimization on the tech space. I too wonder about the future of software development, even in the next year or so, as development is increasing at a rapid rate. 
